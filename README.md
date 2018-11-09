@@ -16,6 +16,7 @@ Disa nga komandat më të përdorura janë:
  **git commit -m "commit message"** - për të bërë "commit" ndryshimet si dhe mesazhin. 
  
  **git status** - për të parë statusin.
+ 
  **git log** - për të parë historikun e ndryshimeve.
 
  **git remote add origin "repository url"** - për të vendosur url-në e vendodhjes së repository remote (ne server) 
