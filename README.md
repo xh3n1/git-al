@@ -21,7 +21,7 @@ Disa nga komandat më të përdorura janë:
 
  **git remote add origin "repository url"** - për të vendosur url-në e vendodhjes së repository remote (ne server) 
 
- **git push -u origin branchname**  - për të dërguar ndryshimet në remote.  
+ **git push  origin branchname**  - për të dërguar ndryshimet në remote.  
 
  **git pull** - për të marrë ndryshimet nga remote.
 
