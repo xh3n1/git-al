@@ -24,6 +24,12 @@ Disa nga komandat më të përdorura janë:
  **git push  origin branchname**  - për të dërguar ndryshimet në remote.  
 
  **git pull** - për të marrë ndryshimet nga remote.
+ 
+ **git branch branchname** - për të krijuar një branch (degë) të ri.
+ 
+ **git checkout branchname** - për të ndryshuar branch-in ku po punoni.
+ 
+ **git checkout -b branchname** - për të krijuar një branch të ri si dhe për të shkuar te ky branch i sapokrijuar.
 
  **git clone https://github.com/xh3n1/git-workshop-albanian** - për të klonuar një repository.
  
