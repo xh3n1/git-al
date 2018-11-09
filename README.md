@@ -16,7 +16,7 @@ Për inicializimin e një repository.
  <pre> git init </pre> 
 Për të shtuar files (skedarët).
  <pre>git add </pre> 
-Për të bërë "commit" ndryshimet si dhe mesazhin. 
+Për të bërë "commit" ndryshimet me  mesazhin e caktuar. 
  <pre> git commit -m "commit message" </pre> 
 Për të parë statusin, cilat file kanë ndryshuar, cilat janë shtuar dhe gati për commit.
  <pre>git status</pre> 
@@ -32,7 +32,7 @@ Për të marrë ndryshimet nga remote lokalisht.
 <pre>git branch branchname</pre> 
 Liston të gjitha branch-et
 <pre>git branch</pre>  
- Fshin të gjitha branch-et.
+ Fshin një branch të caktuar.
 <pre>git branch -d branchname</pre> 
 Për të ndryshuar branch-in ku po punoni.
  <pre>git checkout branchname</pre>  
