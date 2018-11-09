@@ -21,9 +21,9 @@ Për të bërë "commit" ndryshimet me  mesazhin e caktuar.
 Për të parë statusin, cilat file kanë ndryshuar, cilat janë shtuar dhe gati për commit.
  <pre>git status</pre> 
 Për të parë historikun e commits. Cdo commit ka një numër unik , autorin etj.
- <pre>git log</pre>
+ <pre>git log </pre>
 Për të vendosur url-në e vendodhjes së repository remote (ne server) 
-<pre/>git remote add origin "repository url"</pre> 
+<pre>git remote add origin "repository url"</pre> 
 Për të dërguar ndryshimet në remote. 
 <pre>git push  origin branchname</pre>  
 Për të marrë ndryshimet nga remote lokalisht.
