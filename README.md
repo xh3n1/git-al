@@ -39,7 +39,7 @@ Për të ndryshuar branch-in ku po punoni.
  Për të krijuar një branch të ri si dhe të kaloni në këtë branch të sapo krijuar.
 <pre>git checkout -b branchname</pre>  
  Për të klonuar një repository- zëvendëso url-në me url-në e repository që doni të klononi. Nese përdorni SSH atëherë URL është në këtë formë: /git@github.com:xh3n1/git-al.git
- <pre>git clone https://github.com/xh3n1/git-workshop-al</pre>
+ <pre>git clone https://github.com/xh3n1/git-al</pre>
  Ndryshon URL-në e një remote repository.  
 <pre>git remote set-url </pre>
 
