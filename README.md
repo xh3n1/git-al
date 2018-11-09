@@ -27,7 +27,7 @@ Disa nga komandat më të përdorura janë:
  
  **git branch**
 
- **git clone https://github.com/xh3n1/git-workshop-albanian** - për të klonuar një repository.
+ **git clone https://github.com/xh3n1/git-workshop-al** - për të klonuar një repository- zëvendëso url-në me url-në e repository që doni të klononi.
  
  **git remote set-url** -ndryshon URL-në e një remote repository.  
  
