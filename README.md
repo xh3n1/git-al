@@ -25,7 +25,7 @@ Disa nga komandat më të përdorura janë:
 
  **git pull** - për të marrë ndryshimet nga remote.
 
- **git clone https://github.com/xh3n1/git-workshop** - për të klonuar një repository.
+ **git clone https://github.com/xh3n1/git-workshop-albanian** - për të klonuar një repository.
  
 
 ![git-logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
