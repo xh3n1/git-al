@@ -5,33 +5,43 @@ Git është një Sistem i Kontrollit të Versioneve i decentralizuar, i cili ës
 
 **Komandat e Git ndonjëherë harrohen :smirk: , por disa nga komandat më të përdorura janë: :metal:**
 
+**Tregoji Git-it kush je!** Konfiguro emrin dhe emailin e autorit që do të përdoret për commit-et tuaja.
+Për të konfiguruar emailin tuaj globalisht në git.
+ <pre> git config --global user.email "myrtajxheni@gmail.com"</pre>  
+ Për të konfiguruar emrin tuaj globalisht në git.
+<pre> git config --global user.name "name" </pre>
+*Shënim: Nëse dëshironi që për një repository të caktuar të përdorni një emër/email tjetër nga ai global, atëherë shkoni në direktorinë ku doni dhe përdorni të njëjtën komandë por pa --global.*
 
- **git config --global user.email "email"** - për të konfiguruar emailin tuaj globalisht në git.
-
- **git config --global user.name "name"** - për të konfiguruar emrin tuaj globalisht në git.
-
- **git init** - për inicializimin e një repository.
- 
- **git add** - për të shtuar files (skedarët).
-
- **git commit -m "commit message"** - për të bërë "commit" ndryshimet si dhe mesazhin. 
- 
- **git status** - për të parë statusin.
- 
- **git log** - për të parë historikun e ndryshimeve.
-
- **git remote add origin "repository url"** - për të vendosur url-në e vendodhjes së repository remote (ne server) 
-
- **git push  origin branchname**  - për të dërguar ndryshimet në remote.  
-
- **git pull** - për të marrë ndryshimet nga remote.
- 
- **git branch**
-
- **git clone https://github.com/xh3n1/git-workshop-al** - për të klonuar një repository- zëvendëso url-në me url-në e repository që doni të klononi. Nese përdorni SSH atëherë URL është në këtë formë: /git@github.com:xh3n1/git-al.git
- 
- **git remote set-url** -ndryshon URL-në e një remote repository.  
- 
+Për inicializimin e një repository.
+ <pre> git init </pre> 
+Për të shtuar files (skedarët).
+ <pre>git add </pre> 
+Për të bërë "commit" ndryshimet si dhe mesazhin. 
+ <pre> git commit -m "commit message" </pre> 
+Për të parë statusin, cilat file kanë ndryshuar, cilat janë shtuar dhe gati për commit.
+ <pre>git status</pre> 
+Për të parë historikun e commits. Cdo commit ka një numër unik , autorin etj.
+ <pre>git log</pre>
+Për të vendosur url-në e vendodhjes së repository remote (ne server) 
+<pre/>git remote add origin "repository url"</pre> 
+Për të dërguar ndryshimet në remote. 
+<pre>git push  origin branchname</pre>  
+Për të marrë ndryshimet nga remote lokalisht.
+<pre>git pull</pre> 
+ Për të krijuar një branch të ri.
+<pre>git branch branchname</pre> 
+Liston të gjitha branch-et
+<pre>git branch</pre>  
+ Fshin të gjitha branch-et.
+<pre>git branch -d branchname</pre> 
+Për të ndryshuar branch-in ku po punoni.
+ <pre>git checkout branchname</pre>  
+ Për të krijuar një branch të ri si dhe të kaloni në këtë branch të sapo krijuar.
+<pre>git checkout -b branchname</pre>  
+ Për të klonuar një repository- zëvendëso url-në me url-në e repository që doni të klononi. Nese përdorni SSH atëherë URL është në këtë formë: /git@github.com:xh3n1/git-al.git
+ <pre>git clone https://github.com/xh3n1/git-workshop-al</pre>
+ Ndryshon URL-në e një remote repository.  
+<pre>git remote set-url </pre>
 
 ![git-logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
  
