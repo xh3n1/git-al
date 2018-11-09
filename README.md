@@ -1,8 +1,10 @@
 # git 🇦🇱
 
-Git është një Sistem i Kontrollit të Versioneve i decentralizuar, i cili është Open Source dhe lejon zhvilluesit, dizajnerat etj të ruajnë dhe gjurmojnë çdo ndryshim të kodit, skedarëve etj në një mënyrë kronologjike dhe të mundëson të rikthehesh në faza të mëparshme. Ky sistem u mundëson përdoruesve të saj të punojnë në ekipe të mëdha, në projekte komplekse, në një mënyrë të organizuar dhe duke minimizuar konfliktet ndërmjet ndryshimeve të bëra nga përdorues të ndryshëm. 
+Git është një Sistem i Kontrollit të Versioneve i decentralizuar, i cili është Open Source dhe lejon zhvilluesit, dizajnerat etj të ruajnë dhe gjurmojnë çdo ndryshim të kodit, skedarëve etj në një mënyrë kronologjike dhe të mundëson të rikthehesh në faza të mëparshme. Ky sistem u mundëson përdoruesve të saj të punojnë në ekipe të mëdha, në projekte komplekse, në një mënyrë të organizuar dhe duke minimizuar konfliktet ndërmjet ndryshimeve të bëra nga përdorues të ndryshëm.
 
-Komandat e Git ndonjëherë harrohen :smirk: ,  disa nga komandat më të përdorura janë :metal::
+
+**Komandat e Git ndonjëherë harrohen :smirk: , por disa nga komandat më të përdorura janë: :metal:**
+
 
  **git config --global user.email "email"** - për të konfiguruar emailin tuaj globalisht në git.
 
