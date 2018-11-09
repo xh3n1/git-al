@@ -28,7 +28,7 @@ Git është një Sistem i Kontrollit të Versioneve i decentralizuar, i cili ës
  
  **git branch**
 
- **git clone https://github.com/xh3n1/git-workshop-al** - për të klonuar një repository- zëvendëso url-në me url-në e repository që doni të klononi. Nese përdorni SSH atëherë URL është në këtë formë: git@github.com:xh3n1/git-al.git
+ **git clone https://github.com/xh3n1/git-workshop-al** - për të klonuar një repository- zëvendëso url-në me url-në e repository që doni të klononi. Nese përdorni SSH atëherë URL është në këtë formë: 'git@github.com:xh3n1/git-al.git'
  
  **git remote set-url** -ndryshon URL-në e një remote repository.  
  
