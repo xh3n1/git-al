@@ -44,10 +44,12 @@ Për të ndryshuar branch-in ku po punoni.
  Ndryshon URL-në e një remote repository.  
 <pre>git remote set-url </pre>
 
+Per te fshire nje commit-in e fundit  :
+git reset --hard HEAD~1
+
 ## Mungon ndonjë komandë? Kam bërë ndonjë gabim? 😮
 Krijo një Pull Request! Sigurisht që përmirësimet si dhe sugjerimet tuaja janë mëse të mirëpritura. 😃😃😃
 
 ![git-logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 
-sth added.
- 
+
