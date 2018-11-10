@@ -1,4 +1,4 @@
-# git 🇦🇱
+﻿# git 🇦🇱
 
 ## Çfarë është git?
 Git është një Sistem i Kontrollit të Versioneve i decentralizuar, i cili është Open Source dhe lejon zhvilluesit, dizajnerat etj të ruajnë dhe gjurmojnë çdo ndryshim të kodit, skedarëve etj në një mënyrë kronologjike dhe të mundëson të rikthehesh në faza të mëparshme. Ky sistem u mundëson përdoruesve të saj të punojnë në ekipe të mëdha, në projekte komplekse, në një mënyrë të organizuar dhe duke minimizuar konfliktet ndërmjet ndryshimeve të bëra nga përdorues të ndryshëm.
@@ -48,4 +48,6 @@ Për të ndryshuar branch-in ku po punoni.
 Krijo një Pull Request! Sigurisht që përmirësimet si dhe sugjerimet tuaja janë mëse të mirëpritura. 😃😃😃
 
 ![git-logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+
+sth added.
  
