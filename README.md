@@ -6,7 +6,7 @@ Git është një Sistem i Kontrollit të Versioneve i decentralizuar, i cili ës
 
 ## Shkarko git
 
-[Sharkoni](https://git-scm.com/downloads) git nga faqja zyrtare.
+[Shkarkoni](https://git-scm.com/downloads) git nga faqja zyrtare.
 
 ## Komandat e Git ndonjëherë harrohen 😏 , por disa nga komandat më të përdorura janë: 🤘
 
