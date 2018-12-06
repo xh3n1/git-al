@@ -137,7 +137,7 @@ _Shembull_
 
 Ndryshon URL-në e një repository/depoje remote.
 
-<pre>git remote set-url orgiin [url-depos] </pre>
+<pre>git remote set-url origin [url-depos] </pre>
 
 _Shembull:_
 
