@@ -36,7 +36,7 @@ _Shembull:_
 
 <pre>git add App.js</pre>
 
-Për të shtuar te gjithe skedarët qe kane ndryshuar ( e rekomanduar ).
+Për të shtuar te gjithe skedarët qe kane ndryshuar.
 
 <pre>git add .</pre>
 
