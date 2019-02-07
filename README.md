@@ -1,4 +1,6 @@
-﻿# git 🇦🇱
+![Downloads](https://img.shields.io/github/downloads/xh3n1/git-al/total.svg?style=flat-square)
+![](https://img.shields.io/twitter/follow/xh3n1.svg?style=flat-square)
+# git 🇦🇱
 
 ## Çfarë është git?
 
