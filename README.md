@@ -112,7 +112,7 @@ Per te bashkuar nje branch të caktuar me branch-in kryesor master.
   _Shembull:_
   <pre>git merge new-feature</pre>
 
-Fshin një branch të caktuar.
+Fshin një branch të caktuar lokalisht.
 
 <pre>git branch -d [emri-branchit]</pre>
 
