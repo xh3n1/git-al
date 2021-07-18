@@ -15,7 +15,7 @@ Git është një Sistem i Kontrollit të Versioneve i decentralizuar, i cili ës
 
 Për të konfiguruar emailin tuaj globalisht në git.
 
-<pre> git config --global user.email "myrtajxheni@gmail.com"</pre>
+<pre> git config --global user.email "[YOUR EMAIL]"</pre>
 
 Për të konfiguruar emrin tuaj globalisht në git.
 
